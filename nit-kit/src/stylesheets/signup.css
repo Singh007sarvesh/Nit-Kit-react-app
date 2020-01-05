@@ -1,0 +1,22 @@
+.option{
+    
+    margin: 2% 50%;
+    
+}
+.option span{
+    font-size: 30px;
+}
+.options{
+    border: 2px solid;
+    border-radius: 4px;
+    margin: 8%;
+}
+h1{
+    text-align: center;
+    margin-top: 2%;
+}
+input[type=radio] {
+    border: 0px;
+    width: 20px;
+    height: 20px;
+}

@@ -1,0 +1,30 @@
+.footer {   
+    flex-shrink: 0; 
+    display: 'block';
+    padding: '20px';
+    position:relative;
+    bottom: 0px;
+    margin-top: 20px;
+  }
+.page-footer{
+    background-color:#3c3c3c !important;
+    position: relative;
+    left:0;
+    bottom:0px;
+    right:0;
+    z-index: 8;
+    width: 100%;
+    min-height: 48px;
+    box-sizing: border-box;
+    /* display: block; */
+}
+.text-uppercase{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+.footer-copyright{
+    height: 50px;
+    background-color:#1d1a1a !important;
+}

@@ -1,0 +1,18 @@
+.navbar {
+    border-radius: 0px !important;
+    margin-bottom: 0px !important;
+}
+.navbar1{
+    background-color: aliceblue;
+    border-color: aliceblue;
+}
+#bottom_footer{
+    position: fixed;
+    bottom: 0px;
+}
+#logout1{
+    display: none;
+}
+#login{
+    display: block;
+}
